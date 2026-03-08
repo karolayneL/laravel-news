@@ -70,8 +70,8 @@ graph TD
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/student-management-laravel.git
-cd student-management-laravel
+git clone https://github.com/yourusername/laravel-news.git
+cd laravel-news
 
 # 2. Install PHP dependencies
 composer install
